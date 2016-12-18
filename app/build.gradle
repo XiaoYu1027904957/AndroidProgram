@@ -1,0 +1,44 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "25.0.2"
+    defaultConfig {
+        applicationId "com.yuxiaobai"
+        minSdkVersion 16
+        targetSdkVersion 23
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    compile 'com.android.support:appcompat-v7:23.3.0'
+    testCompile 'junit:junit:4.12'
+    compile project(':pullToRefresh_library')
+    compile project(':SlidingMenu_library')
+    compile project(':ViewPagerIndicator_library')
+    compile 'com.google.code.gson:gson:2.2.4'
+    compile 'org.xutils:xutils:3.3.36'
+    compile 'com.jakewharton:butterknife:5.1.1'
+    compile 'com.github.bumptech.glide:glide:3.7.0'
+    compile project(':PhotoView_library')
+    compile 'com.android.support:design:23.3.0'
+    compile project(':okhttputils')
+    compile project(':universal-image-loader-library')
+    compile project(':MaterialRefreshLayout-masterlibrary')
+    compile 'com.squareup.picasso:picasso:2.3.2'
+    compile files('libs/jcore-android_v1.0.0.jar')
+    compile files('libs/jpush-android_v3.0.0.jar')
+}

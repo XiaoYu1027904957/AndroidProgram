@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:\Program Files\AndroidStudio\gradle\gradle-2.14.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AndroidAndJs" />
+            <option value="$PROJECT_DIR$/JPushExample-afu-Android studio" />
+            <option value="$PROJECT_DIR$/MaterialRefreshLayout-masterlibrary" />
+            <option value="$PROJECT_DIR$/OkHttpUtilsapp" />
+            <option value="$PROJECT_DIR$/PhotoView_library" />
+            <option value="$PROJECT_DIR$/RetrofitOKHttpCache" />
+            <option value="$PROJECT_DIR$/SlidingMenu_library" />
+            <option value="$PROJECT_DIR$/SpannableStringBuilderDemo" />
+            <option value="$PROJECT_DIR$/ViewPagerIndicator_library" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/chatlibrary" />
+            <option value="$PROJECT_DIR$/jsvsjava" />
+            <option value="$PROJECT_DIR$/mvp_rxjav_retrofit_Demo" />
+            <option value="$PROJECT_DIR$/newsforbeijing" />
+            <option value="$PROJECT_DIR$/okhttpserver" />
+            <option value="$PROJECT_DIR$/okhttputils" />
+            <option value="$PROJECT_DIR$/pullToRefresh_library" />
+            <option value="$PROJECT_DIR$/tuisong" />
+            <option value="$PROJECT_DIR$/universal-image-loader-library" />
+            <option value="$PROJECT_DIR$/universal-image-loader-sample" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
