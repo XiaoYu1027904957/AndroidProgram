@@ -3,7 +3,7 @@ package com.yuxiaobai.bean;
 import java.util.List;
 
 /**
- * Created by yuxiaobai on 2016/12/15.
+ * Created by yuxiaobai on 2016/12/15.123234523452
  */
 
 public class PhotosMenuBean {
