@@ -199,7 +199,7 @@ public class CrashHandler implements Thread.UncaughtExceptionHandler {
     }
 
     /**
-     * 将捕获的导致崩溃的错误信息发送给开发人员,进行代码的优化
+     * 将捕获的导致崩溃的错误信息发送给开发人员,进行代码的优化。
      *
      * 目前只将log日志保存在sdcard 和输出到LogCat中，并未发送给后台。
      */
