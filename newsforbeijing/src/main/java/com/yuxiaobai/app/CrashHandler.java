@@ -33,7 +33,7 @@ import java.util.Map;
 /**   
   * UncaughtException处理类,当程序发生Uncaught异常的时候,有该类来接管程序,并记录发送错误报告.  
   *  
-  *  需要在Application中注册，为了要在程序启动器就监控整个程序。 
+  *  需要在Application中注册，为了要在程序启动器就监控整个程序。 3234234234
  */
 
 public class CrashHandler implements Thread.UncaughtExceptionHandler {
