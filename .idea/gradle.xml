@@ -10,6 +10,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/AndroidAndJs" />
+            <option value="$PROJECT_DIR$/BaiduMapsApiASDemo" />
             <option value="$PROJECT_DIR$/JPushExample-afu-Android studio" />
             <option value="$PROJECT_DIR$/MaterialRefreshLayout-masterlibrary" />
             <option value="$PROJECT_DIR$/OkHttpSample" />

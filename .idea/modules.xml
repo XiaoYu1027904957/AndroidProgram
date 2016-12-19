@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidAndJs/AndroidAndJs.iml" filepath="$PROJECT_DIR$/AndroidAndJs/AndroidAndJs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaiduMapsApiASDemo/BaiduMapsApiASDemo.iml" filepath="$PROJECT_DIR$/BaiduMapsApiASDemo/BaiduMapsApiASDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/JPushExample-afu-Android studio/JPushExample-afu-Android studio.iml" filepath="$PROJECT_DIR$/JPushExample-afu-Android studio/JPushExample-afu-Android studio.iml" />
       <module fileurl="file://$PROJECT_DIR$/MaterialRefreshLayout-masterlibrary/MaterialRefreshLayout-masterlibrary.iml" filepath="$PROJECT_DIR$/MaterialRefreshLayout-masterlibrary/MaterialRefreshLayout-masterlibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/OkHttpSample/OkHttpSample.iml" filepath="$PROJECT_DIR$/OkHttpSample/OkHttpSample.iml" />
