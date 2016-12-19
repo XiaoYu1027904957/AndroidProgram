@@ -1,0 +1,7 @@
+#Sun Dec 18 22:25:23 CST 2016
+base.0=C\:\\beijingnews\\upload_file_android原生上传图片\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_3645d57935a41f7cf67f7c6c93bf77a5858e356c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\beijingnews\\upload_file_android原生上传图片\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e414c53b04bb25a945688745f6a5cec3a88c99f4\\classes.dex
+base.1=C\:\\beijingnews\\upload_file_android原生上传图片\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e414c53b04bb25a945688745f6a5cec3a88c99f4
+file.0=C\:\\beijingnews\\upload_file_android原生上传图片\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_3645d57935a41f7cf67f7c6c93bf77a5858e356c\\classes.dex

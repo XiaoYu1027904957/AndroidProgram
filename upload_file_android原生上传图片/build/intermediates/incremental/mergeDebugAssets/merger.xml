@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\beijingnews\upload_file_android原生上传图片\src\main\assets"/><source path="C:\beijingnews\upload_file_android原生上传图片\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\beijingnews\upload_file_android原生上传图片\src\debug\assets"/></dataSet></merger>

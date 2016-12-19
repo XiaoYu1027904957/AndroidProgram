@@ -76,12 +76,12 @@
         "source": "C:\\beijingnews\\MaterialRefreshLayout-masterlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "C:\\beijingnews\\MaterialRefreshLayout-masterlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
-        "source": "C:\\beijingnews\\MaterialRefreshLayout-masterlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_lines.xml"
-    },
-    {
         "merged": "C:\\beijingnews\\MaterialRefreshLayout-masterlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
         "source": "C:\\beijingnews\\MaterialRefreshLayout-masterlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\beijingnews\\MaterialRefreshLayout-masterlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\beijingnews\\MaterialRefreshLayout-masterlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_lines.xml"
     },
     {
         "merged": "C:\\beijingnews\\MaterialRefreshLayout-masterlibrary\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",

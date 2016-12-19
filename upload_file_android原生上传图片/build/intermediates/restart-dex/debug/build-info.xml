@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="23"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="96237478925020"
+    token="6350026418932989294"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="894" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="376" />
+    <task
+        name="verifier"
+        duration="22" />
+
+    <artifact
+        location="C:\beijingnews\upload_file_android原生上传图片\build\outputs\apk\upload_file_android原生上传图片-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="96237478925020"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\beijingnews\upload_file_android原生上传图片\build\outputs\apk\upload_file_android原生上传图片-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

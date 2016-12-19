@@ -12,6 +12,7 @@
             <option value="$PROJECT_DIR$/AndroidAndJs" />
             <option value="$PROJECT_DIR$/JPushExample-afu-Android studio" />
             <option value="$PROJECT_DIR$/MaterialRefreshLayout-masterlibrary" />
+            <option value="$PROJECT_DIR$/OkHttpSample" />
             <option value="$PROJECT_DIR$/OkHttpUtilsapp" />
             <option value="$PROJECT_DIR$/PhotoView_library" />
             <option value="$PROJECT_DIR$/RetrofitOKHttpCache" />
@@ -25,10 +26,13 @@
             <option value="$PROJECT_DIR$/newsforbeijing" />
             <option value="$PROJECT_DIR$/okhttpserver" />
             <option value="$PROJECT_DIR$/okhttputils" />
+            <option value="$PROJECT_DIR$/okhttputils_z" />
             <option value="$PROJECT_DIR$/pullToRefresh_library" />
+            <option value="$PROJECT_DIR$/sample-okhttp" />
             <option value="$PROJECT_DIR$/tuisong" />
             <option value="$PROJECT_DIR$/universal-image-loader-library" />
             <option value="$PROJECT_DIR$/universal-image-loader-sample" />
+            <option value="$PROJECT_DIR$/upload_file_android原生上传图片" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

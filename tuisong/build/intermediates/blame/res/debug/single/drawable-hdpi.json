@@ -16,12 +16,12 @@
         "source": "C:\\beijingnews\\tuisong\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\beijingnews\\tuisong\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\border_bg.9.png",
-        "source": "C:\\beijingnews\\tuisong\\res\\drawable-hdpi\\border_bg.9.png"
-    },
-    {
         "merged": "C:\\beijingnews\\tuisong\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\stripes.png",
         "source": "C:\\beijingnews\\tuisong\\res\\drawable-hdpi\\stripes.png"
+    },
+    {
+        "merged": "C:\\beijingnews\\tuisong\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\border_bg.9.png",
+        "source": "C:\\beijingnews\\tuisong\\res\\drawable-hdpi\\border_bg.9.png"
     },
     {
         "merged": "C:\\beijingnews\\tuisong\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\top_bg.9.png",

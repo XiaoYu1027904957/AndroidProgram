@@ -48,12 +48,12 @@
         "source": "C:\\beijingnews\\MaterialRefreshLayout-masterlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
-        "merged": "C:\\beijingnews\\MaterialRefreshLayout-masterlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
-        "source": "C:\\beijingnews\\MaterialRefreshLayout-masterlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_btn_radio_to_on_mtrl_000.png"
-    },
-    {
         "merged": "C:\\beijingnews\\MaterialRefreshLayout-masterlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
         "source": "C:\\beijingnews\\MaterialRefreshLayout-masterlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\beijingnews\\MaterialRefreshLayout-masterlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\beijingnews\\MaterialRefreshLayout-masterlibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
         "merged": "C:\\beijingnews\\MaterialRefreshLayout-masterlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
